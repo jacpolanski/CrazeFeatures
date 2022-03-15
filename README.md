@@ -1,6 +1,6 @@
 
 # CrazeFeatures
-> Non-responsive web design started with CSS styling, then converted to SCSS in learning process.
+> Non-responsive web design started with CSS styling.
 > Live demo [_here_](https://jacpolanski.github.io/CrazeFeatures/)
 
 ## Table of Contents
